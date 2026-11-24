@@ -1,0 +1,17 @@
+{
+  "manifest_version": "2",
+  "required_api_version": "2",
+  "name": "Caffeinate",
+  "description": "Keep your screen on and stop the computer sleeping — for a set time or until you turn it off",
+  "developer_name": "Shanki200801",
+  "icon": "images/icon.svg",
+  "preferences": [
+    {
+      "id": "kw",
+      "type": "keyword",
+      "name": "Caffeinate",
+      "description": "Keep awake",
+      "default_value": "caf"
+    }
+  ]
+}
