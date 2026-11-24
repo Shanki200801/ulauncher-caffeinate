@@ -3,6 +3,8 @@
 Keep your screen on and stop your computer from sleeping — straight from [Ulauncher](https://ulauncher.io).
 Like macOS `caffeinate` or the Amphetamine app.
 
+![Caffeinate in Ulauncher](images/screenshot.png)
+
 ## Usage
 
 Type `caf` in Ulauncher:
